@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Still learning... 😾
 
-Want to be full-stack developer... one day... :crying_cat_face:
+Want to be a full-stack developer... one day... :crying_cat_face:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjnlgc&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
