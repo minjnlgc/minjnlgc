@@ -1,1 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minjnlgc&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minjnlgc&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=minjnlgc&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=minjnlgc&theme=tokyonight&utcOffset=1)
